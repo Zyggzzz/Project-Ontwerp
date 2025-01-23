@@ -39,6 +39,13 @@ export default function Footer() {
           <div>
             <h1 className="text-3xl font-bold">Follow Us</h1>
             <p>Lorem ipsum dolor sit amet</p>
+            <Link
+              href={
+                "https://www.figma.com/design/Rh76Yiw4hZgN60yWgurPli/Untitled?node-id=1-2&p=f&t=2rwVEl6DhsBI3f7J-0"
+              }
+            >
+              DESIGN
+            </Link>
           </div>
           <div
             id="socials"
