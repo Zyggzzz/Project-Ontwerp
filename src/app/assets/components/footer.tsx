@@ -1,6 +1,5 @@
 "use client";
 
-import {} from "lucide-react";
 import Link from "next/link";
 import logo from "~/app/assets/images/logo.svg";
 import Image from "next/image";
