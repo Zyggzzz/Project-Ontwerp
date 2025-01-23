@@ -19,6 +19,7 @@ export default {
         DarkBlue: "var(--darkBlue)",
         Beige: "var(--beige)",
         Idk: "var(--idk)",
+        Brown: "var(--brown)",
       },
     },
   },
